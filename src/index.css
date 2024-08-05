@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: 'BodoniModaSC';
+  src: url('/fonts/BodoniModaSC-VariableFont_opz.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BodoniModaSC-Italic';
+  src: url('/fonts/BodoniModaSC-Italic-VariableFont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
